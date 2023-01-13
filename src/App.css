@@ -1,0 +1,21 @@
+.category-btn {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+}
+.category-btn:hover {
+  background-color: blue;
+  transition: 1s;
+}
+
+.icon{
+  color: rgb(0, 183, 255);
+}
+.icon:hover {
+  color: white;
+}
+
+
+
+
+.testing-color{color: #ee3d3d}
